@@ -1,0 +1,11 @@
+﻿{
+    "namespace": "KafkaTemplate.Messaging.Contracts",
+    "type": "record",
+    "name": "AccountMessageKey",
+    "fields": [
+      {
+        "name": "key",
+        "type": "string"
+      }
+  ]
+}

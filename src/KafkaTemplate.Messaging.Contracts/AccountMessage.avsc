@@ -1,0 +1,19 @@
+﻿{
+    "namespace": "KafkaTemplate.Messaging.Contracts",
+    "type": "record",
+    "name": "AccountMessage",
+    "fields": [
+      {
+        "name": "Id",
+        "type": "string"
+      },
+      {
+        "name": "Name",
+        "type": "string"
+      },
+      {
+        "name": "IsAdmin",
+        "type": "boolean"
+      }
+  ]
+}

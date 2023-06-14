@@ -1,0 +1,38 @@
+# .NET Core
+# Build and dependency directories
+bin/
+obj/
+
+# .NET Core project file
+*.csproj.user
+*.csproj.nuget.*
+
+# Visual Studio Code
+.vscode/
+
+# Test Results
+TestResults/
+
+# Development Environment
+*.vs/
+*.vscode/
+launchSettings.json
+
+# NuGet
+nuget.config
+*.nupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+AnyCPU/
+*.exe
+*.pdb
+*.dll
+*.log
+
+# Visual Studio Build Output
+[Bb]uild/
+msbuild.log
